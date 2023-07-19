@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Ananda
+-Profissão: Supervisora de Qualidade de Software
+-Cidade: Santa Barbara d Oeste
+-O que faz nas horas vaga: Faço academia, pedal e fotografia
+-Feedback sobre o curso Qualidade de Software: O curso é muito claro para entedimento e tem ótimos conteudos
+-Feedback sobre a plataforma de estudo da EBAC: A plataforma é intuitiva, de fácil uso e visual clean
 
 Obrigado!!!
 
